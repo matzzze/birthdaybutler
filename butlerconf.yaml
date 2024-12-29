@@ -1,0 +1,14 @@
+---
+source:
+  filedav:
+    active: False
+    path: "/some/filepath"
+  carddav:
+    active: True
+    url: "http://pservices:5232/radicale_user/f5bfee2a-ea42-dbc7-f3d7-df0625b2bbf7"
+reminders:
+  prereminder1: 1
+  prereminder2: False
+notifier:
+  ntfy_active: True
+  ntfy_url: "http://pntfy/birthdaybutler"
