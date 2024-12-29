@@ -10,5 +10,7 @@ Small python application that can read vcards via http or locally from a file, e
 very basic and dumb applications tested on debian 12. Use at your own risk
 
 # Installation Instructions
+* Get prerequisites
+* <code>apt install python3 python3-vobject python3-requests</code>
 
 # Configuration Instructions
